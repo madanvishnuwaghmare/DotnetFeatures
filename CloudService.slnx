@@ -1,3 +1,6 @@
 <Solution>
-  <Project Path="CloudService/CloudService.csproj" />
+  <Folder Name="/Solution Items/">
+    <File Path="Readme.txt" />
+    <Project Path="CloudService/CloudService.csproj" />
+  </Folder>
 </Solution>

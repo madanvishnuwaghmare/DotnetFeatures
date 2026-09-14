@@ -17,6 +17,8 @@ step 4 Program Add Services db context
 step 5 Add Connection String in appsettings.json
 step 6 Tools --Nuget Package Manager Console
 step 7 Add-Migration InitialCreate
+step 8 Update-Database
+
  
 
 What are different Enity framework approaches 
