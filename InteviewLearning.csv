@@ -1,14 +1,25 @@
-Rediss cache	MCP Server	Python 
-Docker 	Multi Modal Server	Testing tools PlayWright
-Kubernities		
-Microservices 	Agent	
-Services architecture 		
-Kafka 		
-Oath2 		
-Api gateway 		
-Azure Certification 1		
-Azure Certification 2		
-Sample CI CID EPLX 		
-Api gateway 		
-ATS Score On JD 		
-Architectural Patterns 		
+NO,Path,Topics,Madan Status 
+1,Dotnet,Microservices,M- 2/10
+2,,"Architectural Patterns 		",M- 2/10
+3,,"Kafka 		",M- 2/10
+4,,"Oath2 		",M- 4/10
+5,,"Api gateway 		",M- 2/10
+6,,Node JS,
+7,,Testing tools PlayWright,M- 0/10
+8,,,
+9,Cloud ,"Rediss cache	",M- 0/10
+10,,Secret ,M- 5/10
+11,,"Kubernities		",M- 1/10
+12,,Docker,M- 2/10
+13,,,
+14,DevOps,"Sample CI CID EPLX 		",M- 4/10
+15,,,
+16,AI,MCP Server,M- 1/10
+17,,Python,M- 1/10
+18,," 	Agent	",
+19,,Multi Modal Server,
+20,,,
+21,Certifcation,"Azure Certification 1		",
+22,,"Azure Certification 2		",
+,,,
+,Job,"ATS Score On JD 		",
