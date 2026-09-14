@@ -12,12 +12,18 @@ OpenAPI Support is Swagger
 
 Step 1 Install Microsoft.EntityFrameworkCore.SqlServer
 Step 2 Install Microsoft.EntityFrameworkCore.Tools
-step 3 Create DBContext and Models
-step 4 Program Add Services db context 
-step 5 Add Connection String in appsettings.json
+step 3 Create a singleton ApplicationDBContext class which inherits from DbContext and has property Citis as DBSEt
+and Models/city class 
+step 4 Add	connection String in appsettings.json
+step 5  Adddb context to program.cs
+step 6 Program Add a web Services 
+		a) add controller inherit from ControllerBase with [ApiController] and [Route("api/[controller]")] attributes
+		b) Inversion of contorl injection of DbContext in controller constructor
+		c) add method GetCities() and GetPlaces() with [HttpGet] attribute
 step 6 Tools --Nuget Package Manager Console
 step 7 Add-Migration InitialCreate
 step 8 Update-Database
+step 9 http://localhost:5266/api/Citi
 
  
 

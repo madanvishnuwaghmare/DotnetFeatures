@@ -1,4 +1,4 @@
-  @CloudService_HostAddress = https://localhost:7042
+@CloudService_HostAddress = https://localhost:7042
 
 GET {{CloudService_HostAddress}}/weatherforecast/
 Accept: application/json
