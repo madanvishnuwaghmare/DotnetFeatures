@@ -9,4 +9,11 @@
         public string ? CityDescription { get; set; }
 
     }
+    public class CitisDTO
+    {
+        public int Id { get; set; }
+        public required string CityName { get; set; } = string.Empty;
+        // Description of the city Is nullable
+        public string? CityDescription { get; set; }
+    } 
 }
